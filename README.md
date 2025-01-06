@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Language](https://img.shields.io/badge/lang-ru-red.svg)](README.md)
 
-# [LISA-Hub](https://lisa-itmo.github.io/lisa-hub/)
+# [LISA-Hub](https://lisa-itmo.github.io/LISA-Hub/)
 
 Этот репозиторий создан для хранения различных инструментов, регламентов, инструкций и руководств, которые могут быть
 полезны при создании проектов в рамках лаборатории LISA. Все материалы доступны под лицензией BSD-3.
