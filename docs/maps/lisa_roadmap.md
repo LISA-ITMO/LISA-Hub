@@ -1,5 +1,5 @@
 # Дорожная карта мероприятий сотрудника лаборатории LISA
-<p align="center">
+<p style="text-align: center">
     <img src="images/mini_roadmap.png" />
 </p>
 
