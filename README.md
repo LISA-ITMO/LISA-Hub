@@ -12,6 +12,9 @@
 - [Соглашения о командной разработке проектов в рамках лаборатории LISA-ITMO](/docs/vcs/team_development_agreement.md);
 - [Дорожная карта сотрудников лаборатории](/docs/maps/lisa_roadmap.md).
 
+### Материалы и презентации
+- [За 2024/2025](/materials/2024_2025/materials_description_2024_2025.md);
+
 ### Благодарности
 Команда лаборатории LISA выражает огромную благодарность коллегам:
 - [из сообщества энтузиастов научного опенсорса ITMO OpenSource](https://ods.ai/hubs/opensource_itmo);
