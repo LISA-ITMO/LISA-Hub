@@ -1,5 +1,6 @@
 ![ITMO](https://raw.githubusercontent.com/aimclub/open-source-ops/43bb283758b43d75ec1df0a6bb4ae3eb20066323/badges/ITMO_badge_rus.svg)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FLISA-ITMO%2FLISA-Hub&label=Visitors&labelColor=%23697689&countColor=%23263759&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLISA-ITMO%2FLISA-Hub)
 [![Language](https://img.shields.io/badge/lang-ru-red.svg)](README.md)
 
 # [LISA-Hub](https://lisa-itmo.github.io/LISA-Hub/)
