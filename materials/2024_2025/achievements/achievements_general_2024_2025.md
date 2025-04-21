@@ -11,3 +11,5 @@
 7. Ватьян А.С. - [Объяснимый ИИ](https://lisa-itmo.github.io/LISA-Hub/materials/2024_2025/achievements/achievements_vatian_2024_2025.html);
 8. Терещенко В.В. - [Edulytica](https://lisa-itmo.github.io/LISA-Hub/materials/2024_2025/achievements/achievements_tereshchenko_2024_2025.html);
 9. Федоров Д.А. - [От идеи до MVP](https://lisa-itmo.github.io/LISA-Hub/materials/2024_2025/achievements/achievements_fedorov_2024_2025.html).
+
+[Таблица](https://docs.google.com/spreadsheets/d/1NXu7g3Vqzgk4YBeWvR5mWQoJ6UfjzumG8MAhQeO_RZs/edit?usp=sharing) со списком достижений сотрудников.
