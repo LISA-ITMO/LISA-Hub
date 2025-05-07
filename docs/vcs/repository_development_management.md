@@ -55,11 +55,13 @@
 <p style="text-align: center">
     <img src="images/kanban_edulytica_example.png" />
 </p>
+
 2. Доска с задачами, разбитыми по исполнителям. Ее использование позволит более продуктивно проводить ваши синхронизации
 или дейли;
 <p style="text-align: center">
     <img src="images/capacity_edulytica_example.png" />
 </p>
+
 3. Дорожная карта (Roadmap) ваших задач. Данная доска будет полезна если у вас есть четкие дедлайны по задачам или вы
 можете их спрогнозировать.
 
