@@ -81,9 +81,11 @@
 > Поделилась сотрудница лаборатории LISA **Анастасия Дедкова**
 
 ### Сотрудники LISA на экскурсии в Екатерининском дворце
-<video width="320" height="240" controls>
-  <source src="images/ai_lab_excursion.mp4" type="video/mp4">
-</video>
+<div align="center">
+    <video width="480" height="320" controls>
+      <source src="images/ai_lab_excursion.mp4" type="video/mp4">
+    </video>
+</div>
 
 ### Реставрация в эпоху технологий: Искусство и нейросети объединяются!
 <p style="text-align: center">
