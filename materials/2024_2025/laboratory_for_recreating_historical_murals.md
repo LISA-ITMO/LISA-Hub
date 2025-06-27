@@ -107,6 +107,11 @@
 В результате мы получили потрясающие цифровые панно, которые дают возможность увидеть, как выглядели утраченные 
 росписи Екатерининского дворца. Насладитесь красотой и величием прошлого, воссозданным с помощью передовых технологий 
 и глубоких знаний прошлого.
+![gen_result_first.jpeg](images/gen_result_first.jpeg)
+![gen_result_second.jpeg](images/gen_result_second.jpeg)
+![gen_result_third.jpeg](images/gen_result_third.jpeg)
+![gen_result_fourth.jpeg](images/gen_result_fourth.jpeg)
+![gen_result_fifth.jpeg](images/gen_result_fifth.jpeg)
 <div align="center">
     <video width="480" height="320" controls>
       <source src="images/ai_lab_generation.MP4" type="video/MP4">
@@ -117,11 +122,11 @@
 завесу тайны в коротком интервью.
 <div align="center">
     <video width="480" height="320" controls>
-      <source src="images/ai_lab_interview.MOV" type="video/MOV">
+      <source src="images/ai_lab_interview.mp4" type="video/mp4">
     </video>
 </div>
 
-↘️Успехи лаборатории не остались незамеченными, [подробнее](https://m.sobaka.ru/entertainment/art/200182) о проекте 
+↘️ Успехи лаборатории не остались незамеченными, [подробнее](https://m.sobaka.ru/entertainment/art/200182) о проекте 
 написал журнал [«собака.ru»](https://m.sobaka.ru/).
 
 Двое участников лаборатории LISA были особо отмечены за выдающиеся успехи и вклад в проект:
