@@ -15,3 +15,5 @@
 1. [Таблица](https://docs.google.com/spreadsheets/d/1Ff9P7tfOHpKHDEJ9KsSo9dVRYl723uCGMWu4xC9rooc/edit?usp=sharing) с 
 результатами проведения ревью качества репозиториев в организации [LISA-ITMO](https://github.com/orgs/LISA-ITMO/repositories);
 2. [Достижения](https://lisa-itmo.github.io/LISA-Hub/materials/2024_2025/achievements/achievements_general_2024_2025.html) сотрудников лаборатории.
+
+## [Итоги года](https://lisa-itmo.github.io/LISA-Hub/materials/2024_2025/results_2024_2025.html)
